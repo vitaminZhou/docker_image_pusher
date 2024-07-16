@@ -9,3 +9,4 @@ mysql:8.4.0
 apache/seata-server:latest
 logstash:7.6.2
 elasticsearch:7.3.0
+elasticsearch:8.13.4
