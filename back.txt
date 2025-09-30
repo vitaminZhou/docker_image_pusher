@@ -1,0 +1,17 @@
+nginx
+#支持私库
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#xhofe/alist:latest
+#支持指定架构
+#platform=linux/arm64 xiaoyaliu/alist
+openjdk:17-oraclelinux8
+mysql:8.4.0
+apache/seata-server:latest
+logstash:7.6.2
+elasticsearch:7.3.0
+elasticsearch:8.13.4
+redis/redis-stack:6.2.6-v19
+redis/redis-stack-server:6.2.6-v19
+mysql:5.7.44
+mobz/elasticsearch-head:5
+kibana:7.14.0
