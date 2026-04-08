@@ -1,3 +1,4 @@
 canal/canal-admin:v1.1.8
 sodlinken/jairouter:latest
 justsong/one-api:latest
+calciumion/new-api:latest
