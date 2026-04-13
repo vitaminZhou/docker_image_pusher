@@ -3,3 +3,6 @@ sodlinken/jairouter:latest
 justsong/one-api:latest
 calciumion/new-api:latest
 sodlinken/jairouter:latest
+golang:1.26.1-alpine
+debian:bookworm-slim
+oven/bun:1
