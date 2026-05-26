@@ -1,8 +1,1 @@
-canal/canal-admin:v1.1.8
-sodlinken/jairouter:latest
-justsong/one-api:latest
-calciumion/new-api:latest
-sodlinken/jairouter:latest
-golang:1.26.1-alpine
-debian:bookworm-slim
-oven/bun:1
+redis:8.6.3
